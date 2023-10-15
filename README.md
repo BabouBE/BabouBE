@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @BabouBE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-BabouBE/BabouBE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Titre : "Épanouissement et Partage : Ma Vie avec le Trouble Autistique d'Asperger"
 
 Chère amie,
@@ -26,4 +16,5 @@ Avec tout mon soutien,
 
 [Ton nom]
 [Signature]
+
 
